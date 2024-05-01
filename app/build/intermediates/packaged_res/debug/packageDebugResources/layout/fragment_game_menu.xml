@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".practicemode.ui.gamemenu.GameMenuFragment">
+
+
+    <!-- Icone pour le premier jeu -->
+
+    <ImageView
+        android:id="@+id/ic_brlstar"
+        android:layout_width="85dp"
+        android:layout_height="79dp"
+        android:contentDescription="@string/title_game1"
+        android:src="@drawable/brush"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/ic_caml"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/textView2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/title_game1"
+        app:layout_constraintEnd_toEndOf="@+id/ic_brlstar"
+        app:layout_constraintStart_toStartOf="@+id/ic_brlstar"
+        app:layout_constraintTop_toBottomOf="@+id/ic_brlstar" />
+
+    <ImageView
+        android:id="@+id/ic_caml_coin"
+        android:layout_width="36dp"
+        android:layout_height="33dp"
+        android:contentDescription="@string/title_game2"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_camel_coin" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/camel_coin_default"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ic_caml_coin" />
+
+    <!-- Icone pour le deuxième jeu -->
+
+    <ImageView
+        android:id="@+id/ic_caml"
+        android:layout_width="50dp"
+        android:layout_height="wrap_content"
+        android:contentDescription="@string/camellionaire_descrpt"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toStartOf="@+id/ic_caml_coin"
+        app:layout_constraintHorizontal_bias="0.5"
+        app:layout_constraintStart_toEndOf="@+id/ic_brlstar"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/ic_camellionaire" />
+
+    <TextView
+        android:id="@+id/textView4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="8dp"
+        android:text="@string/title_game2"
+        app:layout_constraintEnd_toEndOf="@+id/ic_caml"
+        app:layout_constraintStart_toStartOf="@+id/ic_caml"
+        app:layout_constraintTop_toBottomOf="@+id/ic_caml" />
+
+    <ImageView
+        android:id="@+id/ic_pet_the_camel"
+        android:layout_width="57dp"
+        android:layout_height="58dp"
+        android:layout_marginTop="50dp"
+        android:contentDescription="@string/a_cute_camel_sitting"
+        android:src="@drawable/ic_caml2pet"
+        app:layout_constraintEnd_toEndOf="@+id/textView2"
+        app:layout_constraintStart_toStartOf="@+id/textView2"
+        app:layout_constraintTop_toBottomOf="@+id/textView2" />
+
+    <TextView
+        android:id="@+id/textView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/title_pet2camel"
+        app:layout_constraintEnd_toEndOf="@+id/ic_pet_the_camel"
+        app:layout_constraintStart_toStartOf="@+id/ic_pet_the_camel"
+        app:layout_constraintTop_toBottomOf="@+id/ic_pet_the_camel" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,174 @@
+[
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_activity_practicemodemain.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/activity_practicemodemain.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_activity_main.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/raw_winph.mp3.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/raw/winph.mp3"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/raw_start.mp3.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/raw/start.mp3"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/raw_camelsound.mp3.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/raw/camelsound.mp3"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_branlestar.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_branlestar.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_activity_branle_star.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/activity_branle_star.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_launcher_background.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_activity_camillionnaire.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/activity_camillionnaire.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_activity_welcome.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/activity_welcome.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_fragment_notifications.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/fragment_notifications.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/navigation_mobile_navigation.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/navigation/mobile_navigation.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/menu_bottom_nav_menu.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/menu/bottom_nav_menu.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_brush.png.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/brush.png"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_desert_background.jpg.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/desert_background.jpg"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_fragment_home.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/fragment_home.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_camellionaire.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_camellionaire.xml"
+    },
+    {
+        "merged": "com.example.CamelGames.app-debug-79:/layout_activity_pet_the_camel.xml.flat",
+        "source": "com.example.CamelGames.app-main-81:/layout/activity_pet_the_camel.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/xml_backup_rules.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_activity_pet_the_camel.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/activity_pet_the_camel.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_caml2pet.png.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_caml2pet.png"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_dashboard_black_24dp.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_dashboard_black_24dp.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/raw_pet_sound.mp3.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/raw/pet_sound.mp3"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_activity_camel_brush.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/activity_camel_brush.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/layout_fragment_game_menu.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/layout/fragment_game_menu.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_camel2pet.png.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/camel2pet.png"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/xml_data_extraction_rules.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_home_black_24dp.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_home_black_24dp.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_notifications_black_24dp.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_notifications_black_24dp.xml"
+    },
+    {
+        "merged": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-debug-79:/drawable_ic_camel_coin.xml.flat",
+        "source": "/home/godoux/.gradle/daemon/8.4/com.example.CamelGames.app-main-81:/drawable/ic_camel_coin.xml"
+    }
+]

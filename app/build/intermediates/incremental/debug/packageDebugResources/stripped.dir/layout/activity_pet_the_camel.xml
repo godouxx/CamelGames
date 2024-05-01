@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/desert_background"
+    tools:context=".practicemode.ui.petthecamel.PetTheCamelActivity">
+
+    <ImageView
+        android:id="@+id/cute_cml"
+        android:layout_width="376dp"
+        android:layout_height="262dp"
+        android:contentDescription="@string/description_petcaml"
+        app:layout_constraintBottom_toBottomOf="parent"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:srcCompat="@drawable/camel2pet" />
+
+    <TextView
+        android:id="@+id/countdownTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/timer_for_pet"
+        android:textColor="?attr/colorPrimary"
+        android:textSize="50sp"
+        app:layout_constraintBottom_toTopOf="@+id/cute_cml"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+    <TextView
+        android:id="@+id/pet_counter"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="8dp"
+        android:text="@string/pet_count"
+        android:textColor="?attr/colorSecondary"
+        android:textSize="20sp"
+        app:layout_constraintBottom_toTopOf="@+id/cute_cml"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <Button
+        android:id="@+id/launch_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="44dp"
+        android:text="@string/start_petting"
+        android:visibility="visible"
+        app:layout_constraintBottom_toTopOf="@+id/countdownTextView"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent" />
+
+    <TextView
+        android:id="@+id/show_score"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="24sp"
+        android:visibility="invisible"
+        app:layout_constraintBottom_toTopOf="@+id/cute_cml"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/countdownTextView" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

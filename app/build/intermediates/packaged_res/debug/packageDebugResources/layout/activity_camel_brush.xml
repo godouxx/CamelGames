@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".practicemode.ui.camelbrush.CamelBrushActivity">
+
+
+    <TextView
+        android:id="@+id/title"
+        android:layout_width="409dp"
+        android:layout_height="360dp"
+        android:layout_centerHorizontal="true"
+        android:background="@drawable/brush"
+        android:text="@string/title_camelbrush"
+        android:textAlignment="center"
+        android:textAllCaps="true"
+        android:textColor="?attr/colorPrimary"
+        android:textSize="30sp" />
+
+
+    <TextView
+        android:id="@+id/countdownTextView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/title"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="30dp"
+        android:text="@string/start_time"
+        android:textColor="?attr/colorSecondary"
+        android:textSize="30sp" /> <!-- Initial countdown value -->
+
+    <Button
+        android:id="@+id/btnShake"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/countdownTextView"
+        android:layout_centerInParent="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="20dp"
+        android:text="@string/camel_brush_shake_to_win"
+        android:textSize="24sp" />
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyleHorizontal"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/btnShake"
+        android:layout_marginStart="16dp"
+        android:layout_marginTop="16dp"
+        android:layout_marginEnd="16dp"
+        android:max="100"
+        android:progress="0" />
+
+    <Chronometer
+        android:id="@+id/chronometer"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/progressBar"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="50dp"
+        android:text="@string/Chronometer_start"
+        android:textColor="?attr/colorTertiary"
+        android:textSize="20sp" />
+
+</RelativeLayout>

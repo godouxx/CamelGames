@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">223503512592-s879j8sci5n4tr45r8pt4aup30s2hcm3.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://progmob-1eded-default-rtdb.europe-west1.firebasedatabase.app</string>
+    <string name="gcm_defaultSenderId" translatable="false">223503512592</string>
+    <string name="google_api_key" translatable="false">AIzaSyAuMAPg0NyL1nfx-SM_UvLRAWr7el0woEs</string>
+    <string name="google_app_id" translatable="false">1:223503512592:android:7f2515bc7e37d6d6fb8695</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAuMAPg0NyL1nfx-SM_UvLRAWr7el0woEs</string>
+    <string name="google_storage_bucket" translatable="false">progmob-1eded.appspot.com</string>
+    <string name="project_id" translatable="false">progmob-1eded</string>
+</resources>
